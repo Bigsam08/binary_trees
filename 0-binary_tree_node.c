@@ -3,7 +3,7 @@
 /**
  * binary_tree_node - Creates a binary tree node
  * @parent: node to parent
- * @value: Value to be stored 
+ * @value: Value to be stored
  *
  * Return: new_node  or NULL on failure
  */
